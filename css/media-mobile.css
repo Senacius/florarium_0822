@@ -37,4 +37,14 @@
         width: 100%;
         margin-bottom: 23px;
     }
+
+    .footer__container {
+        flex-direction: column;
+        row-gap: 23px;
+    }
+
+    .footer__content {
+        width: 100%;
+    }
+
 }
